@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sai-ma
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Computing
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently studying Computing
 
 <!---
 sai-ma/sai-ma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
