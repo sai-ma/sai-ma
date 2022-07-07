@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sai-ma
-- 👀 I’m interested in Software Development
 - 🌱 I’m currently studying Computing
 
 <!---
