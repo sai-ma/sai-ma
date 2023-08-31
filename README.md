@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sai-ma
 - 🌱 Pursuing a career in cyber security
--  ＼ʕ •ᴥ•ʔ／ learning python from scratch
+-  ＼ʕ •ᴥ•ʔ／ Here we go
 
 <!---
 sai-ma/sai-ma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
