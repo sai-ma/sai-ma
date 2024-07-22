@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sai-ma
-- 🌱 Pursuing a career in cyber security
+- 🌱 Pursuing a career in cyber security (eventually)
 -  ＼ʕ •ᴥ•ʔ／ Here we go
 
 <!---
